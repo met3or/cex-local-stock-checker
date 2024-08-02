@@ -1,11 +1,6 @@
-Cramlington
-North Shields
-South Shields
-Washington
-Sunderland
-Newcastle Upon Tyne
-Newcastle Grainger St
-Gateshead Trinity Square
-Gateshead Metro Centre
-Durham
-Arnison Durham
+Bury
+Middleton
+Salford
+Bolton
+Stockport
+Manchester Arndale
